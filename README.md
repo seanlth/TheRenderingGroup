@@ -1,0 +1,4 @@
+TheRenderingGroup
+=================
+
+Simulation rendering.
